@@ -16,7 +16,7 @@ antigen bundle command-not-found
 antigen bundle zsh-users/zsh-syntax-highlighting
 
 # Load the theme
-antigen theme candy
+antigen theme romkatv/powerlevel10k
 
 # Done
 antigen apply
